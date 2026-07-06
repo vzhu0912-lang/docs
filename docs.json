@@ -1,72 +1,73 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Topleo Smart Projectors",
+  "theme": "almond",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ef7025",
+    "light": "#eec9bc",
+    "dark": "#4fa1ab"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Visit topleo.com",
+      "href": "https://www.topleo.com"
     }
   },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Catalog",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction",
+              "why-topleo",
+              "certifications"
+            ]
+          },
+          {
+            "group": "Hot Models",
+            "pages": [
+              "models/tp360",
+              "models/hy350-max",
+              "models/tp300",
+              "models/tp350",
+              "models/hy450-max",
+              "models/tp900",
+              "models/tp400",
+              "models/hy300-max",
+              "models/hy450-pro",
+              "models/a10",
+              "models/hy260-pro"
+            ]
+          },
+          {
+            "group": "Other Models",
+            "pages": [
+              "models/hy260",
+              "models/hy320-mini",
+              "models/hy300-plus",
+              "models/yg300",
+              "models/p09",
+              "models/p11"
+            ]
+          },
+          {
+            "group": "Sourcing",
+            "pages": [
+              "sourcing/oem-odm",
+              "sourcing/ordering",
+              "sourcing/contact"
+            ]
+          }
+        ]
+      }
     ]
   },
   "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+    "socials": {}
   }
 }

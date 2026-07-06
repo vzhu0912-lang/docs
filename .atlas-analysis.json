@@ -1,0 +1,103 @@
+{
+  "projectType": "saas",
+  "projectName": "Topleo Smart Projectors",
+  "projectDescription": "Shenzhen Topleo Technology Co., Ltd. is a leading OEM/ODM manufacturer of smart LCD and DLP projectors, offering 27 models with Google TV, Netflix, and Android certifications for global distributors and buyers.",
+  "theme": "almond",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "websiteUrl": "https://www.topleo.com",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Catalog",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction",
+              "why-topleo",
+              "certifications"
+            ]
+          },
+          {
+            "group": "Hot Models",
+            "pages": [
+              "models/tp360",
+              "models/hy350-max",
+              "models/tp300",
+              "models/tp350",
+              "models/hy450-max",
+              "models/tp900",
+              "models/tp400",
+              "models/hy300-max",
+              "models/hy450-pro",
+              "models/a10",
+              "models/hy260-pro"
+            ]
+          },
+          {
+            "group": "Other Models",
+            "pages": [
+              "models/hy260",
+              "models/hy320-mini",
+              "models/hy300-plus",
+              "models/yg300",
+              "models/p09",
+              "models/p11"
+            ]
+          },
+          {
+            "group": "Sourcing",
+            "pages": [
+              "sourcing/oem-odm",
+              "sourcing/ordering",
+              "sourcing/contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "27 smart projector models covering portable, home theater, and short-throw categories",
+    "Google TV (GTV) certified models with full Android TV experience",
+    "Netflix certified models for native streaming membership",
+    "Android 14.0 with 8K video decode support",
+    "Auto focus, auto keystone correction, auto obstacle avoidance",
+    "Short-throw and ultra-short-throw options (throw ratio as low as 0.45:1)",
+    "≥50,000 hour lamp life across all LCD models",
+    "OEM/ODM customization with PCBA sample in 24 hrs and mass production in 7 working days",
+    "ISO9001, CE, FCC, UKCA, RoHS, and other global certifications",
+    "US and Poland overseas warehouses with DDP/DDU shipping support"
+  ],
+  "publicApiSurface": [
+    "TP360 — 720P, 290 ANSI lm, Android 14, 8K decode, portable",
+    "TP360 Football — 720P, 290 ANSI lm, Android 14, football design",
+    "HY300 F — 720P, 290 ANSI lm, Android 14, 8K decode",
+    "HY350 MAX — 1080P, 650 ANSI lm, auto focus, hexagonal keystone",
+    "HY350 MAX GTV — 1080P, 650 ANSI lm, Google TV certified",
+    "TP300 — 1080P, 450 ANSI lm, minimum-size LCD projector, 8K decode",
+    "TP300 NTV — 1080P, 450 ANSI lm, Netflix certified",
+    "HY300 Ultra — 720P, 290 ANSI lm, includes storage bag",
+    "HY300 PRO+ — 720P, 290 ANSI lm, includes storage bag",
+    "TP350 — 1080P, 650 ANSI lm, side projection support, 8K decode",
+    "TP350 NTV — 1080P, 650 ANSI lm, Netflix certified",
+    "HY450 MAX — 1080P, 1100 ANSI lm, auto focus, hexagonal keystone",
+    "HY450 MAX GTV — 1080P, 1100 ANSI lm, Google TV certified",
+    "TP900 — 1080P, 1000 ANSI lm, 0.45:1 short throw",
+    "TP900 GTV — 1080P, 1000 ANSI lm, short throw, Google TV certified",
+    "TP400 — 1080P, 650 ANSI lm, auto focus & keystone",
+    "TP400 GTV — 1080P, 650 ANSI lm, Google TV certified",
+    "HY300 MAX / HY300 MAX GTV — 720P, 390 ANSI lm, Google TV certified",
+    "HY450 PRO — 1080P, 900 ANSI lm, 0.6:1 short throw, optical off-axis",
+    "A10 — 1080P, 390 ANSI lm, electric focus by remote",
+    "HY260 PRO — 1080P, 330 ANSI lm, auto focus, Ok Google, storage bag",
+    "HY260 — 1080P, 330 ANSI lm, auto focus, Ok Google",
+    "HY320 Mini — 720P, 300 ANSI lm, includes lens cap",
+    "HY300 Plus — 720P, 310 ANSI lm, electronic focus",
+    "YG300 — 480x272, 20 ANSI lm, entry-level mini projector",
+    "P09 — DLP 800x480, 65 ANSI lm, 4000mAh battery, power bank support",
+    "P11 — DLP 800x480, 65 ANSI lm, 3000mAh battery, power bank support"
+  ]
+}
